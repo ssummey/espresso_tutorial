@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">espresso_tutorial</string>
+    <string name = "phone_number">Phone number</string>
+    <string name = "call">Call</string>
+    <string name = "call_contact">Select from contact list</string>
 </resources>
